@@ -1,0 +1,11 @@
+html{
+    background-color: #F5F8FA;
+    font-family: 'Chirp', sans-serif;   
+}
+footer, footer div{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+}
